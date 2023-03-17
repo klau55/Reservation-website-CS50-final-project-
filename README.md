@@ -1,8 +1,4 @@
 # Klau5's reservation tool
-#### Video Demo:  https://youtu.be/LdZKtZKEkg0
-#### Description:
-I decided to make this project because i saw real life potential in it: In my building there actually is a common laundry room that one must reserve. The reservations there are made by actually coming to the laundry room, finding there a daily planner notebook and a pen. One must open the notebook, find the needed date and fill in their name on the time lines they want. In 2023 such approach feels miserable. That's why I decided to digitalize the process an solve an actual real life problem!
-
 
 Klau5's reservation tool a web-page that building residents can use to reserve time for a laundry room. The project uses HTML, CSS, JS, Bootstrap, Python, Jinja, SQLite.
 HTML pages are created via having one layout page and making other pages as layout page extensions. All HTML pages are in templates folder. Css and pictures are located in static folder. Everything else is free-flowing in parent folder
